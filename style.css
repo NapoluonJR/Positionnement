@@ -1,0 +1,183 @@
+.section{
+    position: relative;
+    margin: 20px;
+    background: grey;
+}
+.section1{
+    position: relative;
+    top: 50px;
+    background: grey;
+    margin: 20px;
+}
+.section2{
+    position: relative;
+    top: 280px;
+    background: grey;
+    margin: 20px;
+}
+li{
+    color: blue
+}
+
+li[name=ha]{
+    color: orange;
+}
+
+.vert{
+    color: green !important;
+}
+
+#rose{
+    color: pink;
+}
+.geant{
+    height: 500px;
+    width: 500px;
+    background-image: url(https://th.bing.com/th/id/OIP.ArkfCU00x3gZy5T4NOEEKAAAAA?rs=1&pid=ImgDetMain);
+}
+.grand{
+    height: 400px;
+    width: 400px;
+    background-image: url(https://th.bing.com/th/id/OIP.6jRYCqC8WRsvC6EzgO3DogAAAA?rs=1&pid=ImgDetMain);
+}
+.moyen{
+    height: 300px;
+    width: 300px;
+    background-image: url(https://th.bing.com/th/id/R.6983be029ca2400195de2408c4a8cab6?rik=CSQgaYxV6iGL0Q&riu=http%3a%2f%2fgartic.com.br%2fimgs%2fmural%2fni%2fnicollycaroline93%2favatar.png&ehk=bOtXWb6TSojfTA6EyL9pIIlqoU4B%2bkUCXBx4nWsQZeg%3d&risl=&pid=ImgRaw&r=0);
+}
+.petit{
+    height: 200px;
+    width: 200px;
+    background-image: url(https://avatarfiles.alphacoders.com/823/thumb-82390.jpg);
+}
+.box1{
+    height: 50px;
+    width: 50px;
+    border: 1rem solid orangered;
+    margin: 20px;
+}
+.box2{
+    height: 50px;
+    width: 50px;
+    border: 2px dashed blue;
+    margin: 50px 30px 40px;
+    padding: 20px;
+}
+.box3{
+    height: 50px;
+    width: 50px;
+    border: thick double brown;
+    margin: 50px 40px;
+    padding: 5px 20px 30px;
+}
+.box4{
+    height: 50px;
+    width: 50px;
+    border: 4mm ridge purple;
+    padding: 10px 20px;
+}
+.container{
+    background-color: lightgreen;
+    width: 400px;
+    margin: 50px auto;
+    border: 1px solid black;
+    padding: 30px;
+}
+.container1{
+    background-color: lightskyblue;
+    padding: 30px;
+    border: 1px solid black;
+}
+.container2{
+    background-color: orangered;
+    padding: 30px;
+    border: 1px solid black;
+}
+.container3{
+    background-color: lightgreen;
+    width: 400px;
+    margin: 50px auto;
+    border: 1px solid black;
+    padding: 30px;
+}
+.container4{
+    background-color: lightskyblue;
+    padding: 30px;
+    border: 1px solid black;
+    position: relative;
+    left: 100px;
+}
+.container5{
+    background-color: orangered;
+    padding: 30px;
+    border: 1px solid black;
+    position: relative;
+    right: 300px;
+}
+.container6{
+    background-color: lightgreen;
+    width: 400px;
+    margin: 50px auto;
+    border: 1px solid black;
+    padding: 30px;
+}
+.container7{
+    background-color: lightskyblue;
+    padding: 30px;
+    border: 1px solid black;
+}
+.container8{
+    background-color: orangered;
+    padding: 30px;
+    border: 1px solid black;
+    position: absolute;
+    top: 130px;
+    right: 700px;
+}
+.container9{
+    background-color: blue;
+    width: 400px;
+    margin: 50px auto;
+    border: 1px solid black;
+    padding: 30px;
+}
+.container10{
+    background-color: lightgreen;
+    padding: 30px;
+    border: 1px solid black;
+    position: absolute;
+    top: 130px;
+    right: 675px;
+}
+.container11{
+    background-color: lightskyblue;
+    padding: 30px;
+    border: 1px solid black;
+}
+.container12{
+    background-color: orangered;
+    padding: 30px;
+    border: 1px solid black;
+    position: absolute;
+    top: 130px;
+    left: 150px;
+}
+.boxsizing{
+    box-sizing: content-box;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+.box5{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    padding: 20%;
+    width: 15px;
+}
+.box6{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    padding: 20%;
+    width: 15px;
+}
